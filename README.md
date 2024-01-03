@@ -21,7 +21,7 @@ Follow these steps to get your development environment running:
 
 ```bash
 
-    git clone ______
+    git clone https://github.com/mohit9053/notesAPI.git
     cd notesAPI
 
 ```
